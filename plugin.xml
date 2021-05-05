@@ -21,10 +21,10 @@
     <platform name="android">
         <config-file target="res/xml/config.xml" parent="/*">
             <feature name="ToastPlugin">
-                <param name="android-package" value="com.example.toastplugin"/>
+                <param name="android-package" value="com.prak24.toastplugin"/>
             </feature>
         </config-file>
 
-        <source-file src="src/android/ToastPlugin.java" target-dir="src/com/example/toastplugin" />
+        <source-file src="src/android/ToastPlugin.java" target-dir="src/com/prak24/toastplugin" />
     </platform>
 </plugin> 

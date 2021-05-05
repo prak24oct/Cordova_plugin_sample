@@ -1,4 +1,4 @@
-package com.example.toastplugin;
+package com.prak24.toastplugin;
 // The native Toast API
 import android.widget.Toast;
 // Cordova-required packages
