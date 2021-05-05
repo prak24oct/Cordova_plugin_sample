@@ -25,6 +25,6 @@
             </feature>
         </config-file>
 
-        <source-file src="src/android/ToastPlugin.java" target-dir="src/com/example" />
+        <source-file src="src/android/ToastPlugin.java" target-dir="src/com/example/toastplugin" />
     </platform>
 </plugin> 
